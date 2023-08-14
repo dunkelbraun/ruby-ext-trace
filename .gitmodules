@@ -1,0 +1,3 @@
+[submodule "docker-ruby"]
+	path = docker-ruby
+	url = git@github.com:docker-library/ruby.git

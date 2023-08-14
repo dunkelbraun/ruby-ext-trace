@@ -1,0 +1,6 @@
+/tmp/
+/.bundle/
+/vendor/bundle
+.DS_Store
+.env*
+!.env.template
